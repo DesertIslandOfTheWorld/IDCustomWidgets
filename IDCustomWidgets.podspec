@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   # spec 资料
   s.name         = "IDCustomWidgets"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "Some Custom Widgets"
   s.description  = <<-DESC
                     Some Custom Widgets created by Island, using Swift language.
